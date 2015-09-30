@@ -1,0 +1,12 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 衛濟寶書
+#+DATE: 2015-08-24 23:05:13.447694
+#+PROPERTY: ID KR3e0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
+<pb:KR3e0035_WYG_003-1a>¶
+後序¶
+文禮不才蒙賢太守招致求醫㑹新安王大監論及背¶
+證文禮厯舉諸家治法因投其機遂令編類校正集成¶
+一書名曰衛濟寳書後之覽者毋誚愚為僭可也徐文¶
+禮識¶
